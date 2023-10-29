@@ -1,0 +1,22 @@
+**Ceelo Game Rules:**
+
+1. two or more players
+
+2. To determine the bank, all players roll a die, and the player with the highest roll becomes the bank. In the case of ties, re-roll.
+
+3. The bank chooses the amount they want to bet, which can range from $1 to their available funds.
+
+4. After the bank's bet is chosen, players 2, 3, and 4 have the option to place their bets based on the available bank funds. Player 2 can bet the entire amount or a smaller amount. If Player 2 bets a smaller amount, players 3 and 4 can continue to bet in turn until the bank has no betting power.
+
+5. The bank rolls three dice. If two dice match, the third value becomes the bank's point for that round.
+
+6. Winning conditions for the bank:
+   - If the bank rolls 1-2-3, the bank loses all bets.
+   - If the bank rolls 4-5-6, the bank wins the bets.
+   - If the bank rolls three dice with the same value, the bank wins.
+
+7. If the bank loses all its money, the bank role goes to the player who took the last turn.
+
+8. To reset the game for a new round, re-determine the bank and redistribute money if necessary.
+
+These updated rules should accurately represent the flow of the game, and I appreciate your patience and feedback. Enjoy your game, and have a great time playing with your friends!
